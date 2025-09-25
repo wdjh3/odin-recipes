@@ -8,7 +8,9 @@ body {
 }
 
 nav {
+    width: 70%;
     padding: 10px;
+    margin: 0 auto;
 }
 
 nav a {
@@ -27,7 +29,7 @@ h1 {
     margin-bottom: 50px;
     font-family: Arial;
     font-size: 50px;
-    color: #65350f;
+    color: #95653f;
 }
 
 img {
@@ -40,7 +42,7 @@ h2 {
     width: 800px;
     margin: 20px auto;
     font-family: 'Courier New';
-    color: #65350f;
+    color: #95653f;
 }
 
 ul {
@@ -49,6 +51,7 @@ ul {
     line-height: 1.5;
     font-size: 1.25em;
     font-family: Arial;
+    color: #95653f;
 }
 
 ul.recipes {
@@ -61,5 +64,5 @@ ol {
     line-height: 1.75;
     font-size: 1.25em;
     font-family: 'Times New Roman';
-    color: #65350f;
+    color: #95653f;
 }
